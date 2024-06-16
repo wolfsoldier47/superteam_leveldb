@@ -1,12 +1,12 @@
-#Task
+# Task
 
 A sample database has been added in the repo.
 
-#Chrome extension 
+# Chrome extension 
 hello world Chrome extension that stores some value via chrome.storage API.
 
 
-#Python3 script for levelDB
+# Python3 script for levelDB
 
 ```
 pip install plyvel
